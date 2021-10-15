@@ -22,7 +22,7 @@ There are four methods used to identify features to remove:
 
 ## Usage
 
-Refer to the [testing.py](https://github.com/coolestbnslz/Feature_Analysis/blob/main/testing.py) for how to use the different methods in module.
+Refer to the [testing.py](https://github.com/DipanshuGolan/feature_analysis/blob/main/testing.py) for how to use the different methods in module.
 
 ## Visualizations
 
@@ -51,7 +51,7 @@ Install dependencies just mentioned in requirements.txt by typing command in she
 
 ## Contact
 
-Any questions can be directed to nbansal1_be18@thapar.edu.
+Any questions can be directed to dipanshugolan96@gmail.com.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
